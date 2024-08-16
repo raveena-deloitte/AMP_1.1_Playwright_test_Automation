@@ -1,0 +1,13 @@
+{
+  "name": "amp_1.1_playwright_test_automation",
+  "version": "1.0.0",
+  "description": "This is a Demo Project",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Raveena Selvakumar",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.46.0",
+    "@types/node": "^22.3.0"
+  }
+}
